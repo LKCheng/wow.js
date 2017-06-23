@@ -22,9 +22,8 @@ var wow = new WOW({
 wow.init();
 ```
 
-```
-修改之后 [here](http://drinthing.xyz/evo/index.html)!
-```
+修改之后 [here in](http://drinthing.xyz/evo)!
+
 
 ## BUG或者建议
 
