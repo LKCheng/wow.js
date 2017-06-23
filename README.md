@@ -22,7 +22,7 @@ var wow = new WOW({
 wow.init();
 ```
 
-修改之后 [here in](http://drinthing.xyz/evo)!
+修改后的案例 [here in](http://drinthing.xyz/evo)!
 
 
 ## BUG或者建议
