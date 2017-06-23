@@ -23,10 +23,10 @@ wow.init();
 ```
 
 ```
-修改after [here](http://www.drinthing.xyz/evo/index.html)!
+修改之后 [here](http://drinthing.xyz/evo/index.html)!
 ```
 
-##BUG或者建议
+## BUG或者建议
 
 如果你发现BUG或者你有其他建议,请告诉我 [here on Github](https://github.com/LKCheng/wow.js)!
 
